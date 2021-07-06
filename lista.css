@@ -1,0 +1,10 @@
+html {
+  font-size: 18px;
+  font-family: Arial;
+  color: #353535;
+  border: 2px;
+  border-width: 1, 1;
+  border-style: 1, 1;
+  border-color: #a0a0a0;
+  padding: 4px 8px;
+}
